@@ -6,9 +6,9 @@
 	galleryTitle="TSA Photo Gallery"
 
 >
-  <image imageURL="images/members1.jpg"
-	thumbURL="thumbs/members1.jpg"
-	linkURL="images/members1.jpg"
+  <image imageURL="gallery/images/members1.jpg"
+	thumbURL="gallery/thumbs/members1.jpg"
+	linkURL="gallery/images/members1.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Devan\Desktop\members1.jpg">
     <title><![CDATA[Unity]]></title>
