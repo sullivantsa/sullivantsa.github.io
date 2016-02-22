@@ -14,25 +14,25 @@
     <title><![CDATA[Unity]]></title>
     <caption><![CDATA[TSA Members Holding Up TSA Logo]]></caption>
   </image>
-  <image imageURL="images/members2.jpg"
-	thumbURL="thumbs/members2.jpg"
-	linkURL="images/members2.jpg"
+  <image imageURL="gallery/images/members2.jpg"
+	thumbURL="gallery/thumbs/members2.jpg"
+	linkURL="gallery/images/members2.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Devan\Desktop\members2.jpg">
     <title><![CDATA[Helpful]]></title>
     <caption><![CDATA[TSA Member helping another with a Sketching Project]]></caption>
   </image>
-  <image imageURL="images/members3.jpg"
-	thumbURL="thumbs/members3.jpg"
-	linkURL="images/members3.jpg"
+  <image imageURL="gallery/images/members3.jpg"
+	thumbURL="gallery/thumbs/members3.jpg"
+	linkURL="gallery/images/members3.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Devan\Desktop\members3.jpg">
     <title><![CDATA[Feedback]]></title>
     <caption><![CDATA[TSA Member Giving Feedback Of Another Member's Design]]></caption>
   </image>
-  <image imageURL="images/members4.jpg"
-	thumbURL="thumbs/members4.jpg"
-	linkURL="images/members4.jpg"
+  <image imageURL="gallery/images/members4.jpg"
+	thumbURL="gallery/thumbs/members4.jpg"
+	linkURL="gallery/images/members4.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Devan\Desktop\members4.jpg">
     <title><![CDATA[Teamwork]]></title>
