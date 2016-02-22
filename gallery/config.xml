@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	imageQuality="99"
+	galleryTitle="SHS TSA Members"
+
+>
+  <image imageURL="images/members1.jpg"
+	thumbURL="thumbs/members1.jpg"
+	linkURL="images/members1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Devan\Desktop\members1.jpg">
+    <title><![CDATA[members1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/members2.jpg"
+	thumbURL="thumbs/members2.jpg"
+	linkURL="images/members2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Devan\Desktop\members2.jpg">
+    <title><![CDATA[members2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/members3.jpg"
+	thumbURL="thumbs/members3.jpg"
+	linkURL="images/members3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Devan\Desktop\members3.jpg">
+    <title><![CDATA[members3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/members4.jpg"
+	thumbURL="thumbs/members4.jpg"
+	linkURL="images/members4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Devan\Desktop\members4.jpg">
+    <title><![CDATA[members4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
