@@ -10,7 +10,6 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-		vertical-align: baseline;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1273,6 +1272,7 @@
 
 	section, article {
 		margin-bottom: 3em;
+		vertical-align: middle;
 	}
 
 	section > :last-child,
