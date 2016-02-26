@@ -10,6 +10,7 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
+		vertical-align: middle;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
