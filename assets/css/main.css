@@ -5142,13 +5142,13 @@
 
 		background-repeat: no-repeat;
 
-		background-size: cover;
+		background-size: contain;
 
 		content: '';
 
 		display: block;
 
-		height: 15em;
+		height: 11em;
 
 		width: 100%;
 
