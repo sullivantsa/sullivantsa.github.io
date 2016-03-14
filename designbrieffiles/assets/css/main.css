@@ -10,7 +10,7 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-		vertical-align: baseline;
+		vertical-align: middle;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1066,7 +1066,7 @@
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #515151;
 		font-weight: 300;
 	}
 
@@ -1273,6 +1273,7 @@
 
 	section, article {
 		margin-bottom: 3em;
+		vertical-align: middle;
 	}
 
 	section > :last-child,
@@ -1804,12 +1805,12 @@
 		/* Wrappers */
 
 			.wrapper {
-				padding: 8em 0 8em 0;
+				padding: 8em 0 12em 0;
 				text-align: center;
 			}
 
 				.wrapper.first {
-					padding-top: 12em;
+					padding-top: 7em;
 				}
 
 		/* Nav */
@@ -1910,7 +1911,7 @@
 			}
 
 				.wrapper.first {
-					padding-top: 9em;
+					padding-top: 8em;
 				}
 
 				.wrapper.style4 .row-special {

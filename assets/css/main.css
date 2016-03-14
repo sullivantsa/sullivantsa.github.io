@@ -3100,7 +3100,7 @@
 
 	body, input, select, textarea {
 
-		color: #888;
+		color: #515151;
 
 		font-family: "Lato", sans-serif;
 
@@ -3146,7 +3146,7 @@
 
 	strong, b {
 
-		color: #777;
+		color: #005dab;
 
 		font-weight: 700;
 
@@ -5062,7 +5062,7 @@
 
 					display: block;
 
-					padding: 0.85em 0;
+					padding: 0.7em 0;
 
 					text-decoration: none;
 
@@ -5142,13 +5142,13 @@
 
 		background-repeat: no-repeat;
 
-		background-size: cover;
+		background-size: contain;
 
 		content: '';
 
 		display: block;
 
-		height: 15em;
+		height: 11em;
 
 		width: 100%;
 
