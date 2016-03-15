@@ -5134,13 +5134,13 @@
 
 		background-repeat: no-repeat;
 
-		background-size: contain;
+		background-size: cover;
 
 		content: '';
 
 		display: block;
 
-		height: 11em;
+		height: 12em;
 
 		width: 100%;
 
@@ -5890,7 +5890,7 @@
 
 			#one:before {
 
-				height: 7em;
+				height: 6em;
 
 			}
 
