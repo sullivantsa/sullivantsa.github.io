@@ -1,41 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<juiceboxgallery 
-
+<?xml version="1.0" encoding="UTF-8"?><juiceboxgallery 
 	imageQuality="99"
 	galleryTitle="TSA Photo Gallery"
-
->
-  <image imageURL="gallery/images/members1.jpg"
+><image imageURL="gallery/images/members1.jpg"
 	thumbURL="gallery/thumbs/members1.jpg"
 	linkURL="gallery/images/members1.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Devan\Desktop\members1.jpg">
-    <title><![CDATA[Unity]]></title>
-    <caption><![CDATA[TSA Members Holding Up TSA Logo]]></caption>
-  </image>
-  <image imageURL="gallery/images/members2.jpg"
+	sourcePath="C:\Users\Devan\Desktop\members1.jpg"><title><![CDATA[Unity]]></title><caption><![CDATA[TSA Members Holding Up TSA Logo]]></caption></image><image imageURL="gallery/images/members2.jpg"
 	thumbURL="gallery/thumbs/members2.jpg"
 	linkURL="gallery/images/members2.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Devan\Desktop\members2.jpg">
-    <title><![CDATA[Helpful]]></title>
-    <caption><![CDATA[TSA Member helping another with a Sketching Project]]></caption>
-  </image>
-  <image imageURL="gallery/images/members3.jpg"
+	sourcePath="C:\Users\Devan\Desktop\members2.jpg"><title><![CDATA[Helpful]]></title><caption><![CDATA[TSA Member helping another with a Sketching Project]]></caption></image><image imageURL="gallery/images/members3.jpg"
 	thumbURL="gallery/thumbs/members3.jpg"
 	linkURL="gallery/images/members3.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Devan\Desktop\members3.jpg">
-    <title><![CDATA[Feedback]]></title>
-    <caption><![CDATA[TSA Member Giving Feedback Of Another Member's Design]]></caption>
-  </image>
-  <image imageURL="gallery/images/members4.jpg"
+	sourcePath="C:\Users\Devan\Desktop\members3.jpg"><title><![CDATA[Feedback]]></title><caption><![CDATA[TSA Member Giving Feedback Of Another Member's Design]]></caption></image><image imageURL="gallery/images/members4.jpg"
 	thumbURL="gallery/thumbs/members4.jpg"
 	linkURL="gallery/images/members4.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Devan\Desktop\members4.jpg">
-    <title><![CDATA[Teamwork]]></title>
-    <caption><![CDATA[TSA Members Working Together To Reach A Common Goal]]></caption>
-  </image>
-</juiceboxgallery>
+	sourcePath="C:\Users\Devan\Desktop\members4.jpg"><title><![CDATA[Teamwork]]></title><caption><![CDATA[TSA Members Working Together To Reach A Common Goal]]></caption></image></juiceboxgallery>
