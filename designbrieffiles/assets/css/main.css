@@ -1337,6 +1337,7 @@
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		width:45%;
+		background-color: #282828;
 	}
 
 		input[type="button"]:hover,
