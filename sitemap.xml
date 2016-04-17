@@ -4,54 +4,77 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 <url>
-  <loc>http://shstsa.ml/</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/index.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/index.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/chapterinfo.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/chapterinfo.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/scienceprogram.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/scienceprogram.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/2016designbriefsolution.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/2016designbriefsolution.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/contactus.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/contactus.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/designbrieffiles/index.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/about.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/designbrieffiles/uses.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/designbrieffiles/index.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/designbrieffiles/concerns.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/designbrieffiles/uses.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://shstsa.ml/designbrieffiles/advancements.html</loc>
-  <lastmod>2016-04-06T00:05:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>http://www.sullivantsa.com/designbrieffiles/concerns.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.sullivantsa.com/designbrieffiles/advancements.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.sullivantsa.com/designbrieffiles/about.html</loc>
+  <lastmod>2016-04-16T01:10:31+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
 </url>
 </urlset>
