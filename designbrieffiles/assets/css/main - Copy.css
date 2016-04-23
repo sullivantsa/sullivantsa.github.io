@@ -1330,13 +1330,14 @@
 		display: inline-block;
 		color: #fff !important;
 		text-decoration: none;
-		font-weight: 700;
 		border: 0;
 		outline: 0;
 		cursor: pointer;
-		border-radius: 8px;
+		border-radius: 25px;
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
+		width:45%;
+		background-color: #282828;
 	}
 
 		input[type="button"]:hover,
@@ -1575,8 +1576,7 @@
 /* Wrappers */
 
 	.wrapper {
-		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-	}
+		}
 
 		.wrapper.first {
 			box-shadow: none;
